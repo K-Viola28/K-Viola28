@@ -34,7 +34,7 @@ I enjoy **frontend development**, **security developments**, and **learning new 
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="vkania375@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=500&lines=Say+Hi!+📧+Email+Me" />
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-800080?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
