@@ -43,6 +43,5 @@ I enjoy **frontend development**, **security developments**, and **learning new 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=180&section=header&text=Thank+You!&fontColor=ffffff&fontSize=36&animation=twinkling" />
 </p>
----
 
 </p>
