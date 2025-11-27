@@ -36,4 +36,11 @@ I enjoy **frontend development**, **security developments**, and **learning new 
   <a href="mailto:vkania375@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email%20Me-800080?style=for-the-badge&logo=gmail&logoColor=ffffff&animation=glow" />
   </a>
+
+  ---
+
+  <!-- Waving Banner with Floating Particles & Glow -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=180&section=header&text=Thank you for viewing!&fontColor=ffffff&fontSize=36&animation=twinkling&background=1f1f1f" />
+</p>
 </p>
