@@ -41,6 +41,8 @@ I enjoy **frontend development**, **security developments**, and **learning new 
 
   <!-- Waving Banner with Floating Particles & Glow -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=180&section=header&text=Thank you for viewing!&fontColor=ffffff&fontSize=36&animation=twinkling&background=1f1f1f" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=180&section=header&text=Thank+You!&fontColor=ffffff&fontSize=36&animation=twinkling" />
 </p>
+---
+
 </p>
