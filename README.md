@@ -35,6 +35,6 @@ I enjoy **frontend development**, **security developments**, and **learning new 
 ## 📬 Contact Me
 <p align="center">
   <a href="vkania375@gmail.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=500&lines=Say+Hi!+📧+Email+Me+%E2%9C%94" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=500&lines=Say+Hi!+📧+Email+Me" />
   </a>
 </p>
