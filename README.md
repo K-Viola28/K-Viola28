@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🌙 Viola Kania — Chill Dev Energy ✨
+# 🌙✨
 
 <!-- Typing Animation -->
 <p align="center">
@@ -34,7 +34,7 @@ I enjoy **frontend development**, **UI design**, and **learning new tech at my o
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="vkania375@gmail.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=800080&center=true&vCenter=true&width=500&lines=Say+Hi!+📧+Email+Me+%E2%9C%94" />
   </a>
 </p>
