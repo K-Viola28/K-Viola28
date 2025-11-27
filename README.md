@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=800080&size=32&center=true&vCenter=true&width=600&lines=Hey+I'm+Viola+💜;Security+Enthusiast;Chill+Tech+Student;Welcome+to+my+GitHub!" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=800080&size=32&center=true&vCenter=true&width=600&lines=Hey+I'm+Viola+💜;Security+Enthusiast;Tech+Student;Welcome+to+my+GitHub!" />
   </a>
 </p>
 
@@ -15,8 +15,7 @@
 
 ---
 
-## 👋 About Me
-A chill-minded creator exploring the art of building clean, aesthetic, and meaningful digital experiences.  
+## 👋 About Me  
 I enjoy **frontend development**, **security developments**, and **learning new tech at my own pace**.
 
 ---
